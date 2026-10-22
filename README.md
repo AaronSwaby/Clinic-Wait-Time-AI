@@ -85,8 +85,4 @@ The long-term goals of Clinic Wait Time AI are to:
 
 ## Disclaimer
 
-This project was developed for educational and demonstration purposes as part of the **Claude AI Builder Courses**.
-
-All clinic traffic and patient queue information is simulated. The application does not use real patient medical records, and its estimated wait times should not be used to make medical decisions.
-
 **Development is ongoing, and additional improvements will be documented as the project progresses.**

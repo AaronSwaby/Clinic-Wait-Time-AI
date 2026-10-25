@@ -6,11 +6,11 @@
 
 ## About This Project
 
-Clinic Wait Time AI is an ongoing project I developed as part of the **Claude AI Builder Courses**, applying artificial intelligence, product design, and AI-assisted development to address a real-world healthcare challenge.
+Clinic Wait Time AI is an ongoing project I developed as part of the Claude AI Builder Courses, applying artificial intelligence, product design, and AI-assisted development to address a real-world challenge.
 
 The project focuses on a common issue in healthcare: patients often have limited information about how long they may need to wait before receiving care. The goal is to create an accessible platform that provides estimated waiting times based on current clinic conditions and patient needs.
 
-Using **Replit's AI-powered development tools**, I transformed my initial product requirements, technical specifications, and design concepts into a functioning web application without relying on traditional manual coding.
+Using Replit, I transformed my initial product requirements, technical specifications, and design concepts into a functioning web application without relying on traditional manual coding.
 
 The application integrates **Groq AI** with a simulated clinic environment to generate context-sensitive waiting-time estimates based on factors such as age range, reason for visiting, patient traffic, and staff availability.
 
@@ -24,13 +24,10 @@ Throughout development, I have applied concepts from the Claude AI Builder Cours
 
 This project also serves as an opportunity to explore the intersection of **artificial intelligence, software development, and cybersecurity**, particularly the challenges of building secure, reliable AI-powered applications.
 
-## Development Progress
 
-### Phase 1 — Product Design & Initial Prototype
+### Product Design & Initial Prototype
 
-**Status: Complete**
-
-The first phase focused on identifying the problem, defining the product requirements, and developing a functional prototype.
+Initially I had focused on identifying the problem, defining the product requirements, and developing a functional prototype.
 
 - Identified target users, accessibility concerns, and their needs
 - Established functional requirements and measurable success criteria
@@ -42,9 +39,9 @@ The first phase focused on identifying the problem, defining the product require
 - Implemented temporary session management and input validation
 - Established a foundation for further development and security testing
 
-### Phase 2 — Security & Further Development
+### Security & Further Development
 
-**Status: In Progress**
+**WIP**
 
 The second phase focuses on evaluating the application's security, improving reliability, and expanding its functionality.
 
@@ -60,17 +57,6 @@ Planned work includes:
 - [ ] Improve accessibility and user experience
 - [ ] Document vulnerabilities, fixes, and development decisions
 
-## Current Limitations
-
-Clinic Wait Time AI is currently an **educational proof-of-concept prototype**, not a production-ready healthcare application.
-
-- Patient queues and clinic traffic are simulated rather than retrieved from a real healthcare facility.
-- AI-generated waiting-time estimates have not been validated against actual clinical waiting times.
-- The application is not connected to a real clinic's patient management system.
-- Security assessments and performance evaluations are ongoing.
-- Additional functionality, testing, and reliability improvements are planned.
-
-The prototype demonstrates the potential application of AI-assisted wait-time estimation while providing a foundation for further development.
 
 ## Project Goals
 
@@ -79,9 +65,10 @@ The long-term goals of Clinic Wait Time AI are to:
 1. Improve patient access to estimated clinic waiting times.
 2. Provide an accessible, mobile-friendly platform without requiring an account or application download.
 3. Explore how AI can support patient flow estimation and clinic operations.
-4. Apply privacy-conscious design principles to healthcare-related technology.
-5. Evaluate and strengthen the security of an AI-integrated web application.
-6. Gain practical experience applying concepts learned through the Claude AI Builder Courses.
+4. Explore security risk of using AI to develop a project
+5. Apply privacy-conscious design principles to healthcare-related technology.
+6. Evaluate and strengthen the security of an AI-integrated web application.
+7. Gain practical experience applying concepts learned through the Claude AI Builder Courses.
 
 ## Disclaimer
 

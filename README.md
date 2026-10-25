@@ -1,6 +1,6 @@
 # Clinic Wait Time AI
 
-**Status:** Work in Progress — Phase 1 Complete
+**Status:** WIP
 
 [**Live Prototype**](https://wait-time-portal--4ajswaby.replit.app/)
 
